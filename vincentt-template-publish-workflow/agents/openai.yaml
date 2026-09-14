@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vincentt Template Publish Workflow"
+  short_description: "Audit and publish Vincentt templates"
+  default_prompt: "Use $vincentt-template-publish-workflow to audit and publish this project as a Vincentt template."
+
+policy:
+  allow_implicit_invocation: true
