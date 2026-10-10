@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vincentt Camera Experience Planner"
+  short_description: "Shape an idea into an SDK-grounded build prompt"
+  default_prompt: "Use $vincentt-camera-experience-planner-chatgpt to plan a Vincentt camera experience and write a verified implementation prompt."
+
+policy:
+  allow_implicit_invocation: true
